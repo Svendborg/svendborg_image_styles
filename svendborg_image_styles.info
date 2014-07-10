@@ -9,3 +9,4 @@ dependencies[] = image
 features[features_api][] = api:2
 features[image][] = svendborg_content_image
 features[image][] = svendborg_spotbox
+project path = profiles/os2web/modules

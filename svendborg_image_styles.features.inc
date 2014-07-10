@@ -25,7 +25,7 @@ function svendborg_image_styles_image_default_styles() {
         'module' => 'image',
         'name' => 'image_scale',
         'data' => array(
-          'width' => 827,
+          'width' => 900,
           'height' => '',
           'upscale' => 1,
         ),
@@ -41,8 +41,8 @@ function svendborg_image_styles_image_default_styles() {
         'module' => 'image',
         'name' => 'image_crop',
         'data' => array(
-          'width' => 827,
-          'height' => 385,
+          'width' => 900,
+          'height' => 419,
           'anchor' => 'center-center',
         ),
         'weight' => 2,
